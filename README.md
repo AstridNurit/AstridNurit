@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Astrid Nurit
-- 👀 I’m interested in videogames, writting, gardening, handmade products, country lifestyle
-- 🌱 I’m currently learning FrontEnd (HTML, CSS, JS) and BackEnd (Java)
-- 💞️ I’m looking to collaborate on any project that allows me to apply the knowledge
+
 - 📫 How to reach me ---> nurzysz@gmail.com
 
 <!---
